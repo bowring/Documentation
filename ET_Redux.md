@@ -1,15 +1,15 @@
 ##ET_Redux Documentation Overview
 
-ET_Redux is a stand alone desktop application, which ET_Redux was produced by CIRDLES as the successor to U-Pb_Redux on January 22, 2015. The purpose of ET_Redux is to integrate automatic data archiving and results into the NSF-sponsored Geochron community database. ET_Redux produces analysis results as an 'aliquot' XML file, which can be exported to Geochron or stored and shared as desired.
+ET_Redux is a stand-alone desktop application, produced by CIRDLES.org as the successor to U-Pb_Redux in January, 2015, with the initials "ET" referring to its sponsor [EARTHTIME](http://www.earth-time.org). ET_Redux is cyber infrastructure for geochronologists that automates workflows from sample collection to publicly archiving of results into the NSF-sponsored [Geochron](http://www.geochron.org) community database. ET_Redux exports analysis results as an [aliquot](https://raw.githubusercontent.com/EARTHTIME/Schema/master/AliquotXMLSchema.xsd) XML file, which can be exported to Geochron or stored and shared as desired.  ET_Redux currently serves the ID-TIMS and LAICP-MS U-Pb geochronology communities and is currently funded by NSF to extend to U-series analyses.
 
 ##Information for use of Documentation
 The documentation below is essentially a set of step by step instructions on how to operate the software. For auditory and visual learners, youtube video tutorials will be included among the written instructions, so there will be a video demonstration of ET_Redux operations from a computer desktop.
 
 ##Concept of operations
-The objective of ET_Redux is to extend its architecture to U-series analyses in addition to IDTIMS and LA-ICPMS U-Pb data reduction, uncertainty propagation, and visualization for any U-bearing phase. ET_Redux supplies sophisticated graphical and statistical tools for data analysis and compilation. These include interactive data tables, concordia and weighted mean plots, dynamic decomposition of uncertainties into contributions from individual sources, and algorithms for propagation of systematic uncertainties in tracer calibration and decay constants. ET_Redux also generates these outputs as publication-ready vector graphics files.
+ET_Redux provides sophisticated graphical and statistical tools to assist with data ingestion and organization, data reduction, uncertainty propagation, visualizations, publication-ready vectorized tables and plots, and one-click archiving. These include interactive data tables, concordia and weighted mean plots, dynamic decomposition of uncertainties into contributions from individual sources, and algorithms for propagation of systematic uncertainties in tracer calibration and decay constants. 
 
 ##Policies that affect the system
-ET_Redux is sponsored by EARTHTIME and the National Science Foundation.
+ET_Redux is sponsored by EARTHTIME and funded in part by the National Science Foundation under Grant Numbers 0930223 and 1443037. Any opinions, findings and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation (NSF).
 
 ##Starting ET_Redux and starting data reduction
 
