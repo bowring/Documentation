@@ -1,6 +1,6 @@
 ##ET_Redux Documentation Overview
 
-ET_Redux is a stand alone desktop application, which ET_Redux was produced by CIRDLES as the successor to U-Pb_Redux on January 22, 2015. The purpose of ET_Redux is to integrate automatic data archiving and results into the NSF-sponsored Geochron community database. ET_Redux produces analysis results as an 'aliquot' XML file, which can be exported to Geochron or stored and shared as desired.
+ET_Redux is a stand-alone desktop application, produced by CIRDLES.org as the successor to U-Pb_Redux in January, 2015, with the initials "ET" referring to its sponsor [EARTHTIME](http://www.earth-time.org). ET_Redux is cyber infrastructure for geochronologists that automates workflows from sample collection to publicly archiving of results into the NSF-sponsored [Geochron](http://www.geochron.org) community database. ET_Redux exports analysis results as an [aliquot](https://raw.githubusercontent.com/EARTHTIME/Schema/master/AliquotXMLSchema.xsd) XML file, which can be exported to Geochron or stored and shared as desired.  ET_Redux currently serves the ID-TIMS and LAICP-MS U-Pb geochronology communities is currently funded by NSF to extend to U-series analyses.
 
 ##Information for use of Documentation
 The documentation below is essentially a set of step by step instructions on how to operate the software. For auditory and visual learners, youtube video tutorials will be included among the written instructions, so there will be a video demonstration of ET_Redux operations from a computer desktop.
